@@ -91,7 +91,7 @@ export default function Projects() {
                   Tailwind CSS
                 </span>
               </div>
-              <Link href="">
+              <Link href="https://github.com/Axgust22/NextjsPortfolio">
                 <p className="text-sm sm:text-base font-medium dark:text-white text-black">
                   More detail
                 </p>
