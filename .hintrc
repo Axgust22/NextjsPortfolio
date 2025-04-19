@@ -1,0 +1,17 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "compat-api/css": [
+      "default",
+      {
+        "ignore": [
+          "mask-clip",
+          "mask-image",
+          "-webkit-text-size-adjust"
+        ]
+      }
+    ]
+  }
+}
