@@ -31,7 +31,7 @@ export const products = [
   // Ace graduation
   {
     title: "Ace graduation",
-    image: "/ace1.jpg",
+    image: "/ace1.JPG",
   },
   {
     title: "Ace graduation with a Certificate",
