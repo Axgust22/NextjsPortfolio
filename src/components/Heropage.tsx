@@ -7,9 +7,12 @@ import Image from "next/image";
 
 export default function Heropage() {
   return (
-    <div id="Heropage" className="h-screen flex items-center">
+    <div
+      id="Heropage"
+      className="min-h-screen flex items-center justify-center"
+    >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 sm:py-12">
-        <div className="flex flex-col gap-10 md:flex-row jutify-between items-center justify-center">
+        <div className="flex flex-col gap-10 md:flex-row jutify-between items-center justify-center py-10">
           <div className="flex flex-col text-center md:text-left">
             <h1 className="text-4xl sm:text-5xl lg:text-8xl lg:leading-normal font-extrabold text-gray-800 dark:text-white">
               Hello, I&apos;m <br />
